@@ -56,4 +56,4 @@ Pull requests and contributions are welcome! If you change any core logic, pleas
 
 ## Author
 
-Jason Christian (@secretroomsr)
+Jason Christian (@jasonchristiandev)
