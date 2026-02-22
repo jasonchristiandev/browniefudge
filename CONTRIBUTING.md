@@ -18,5 +18,5 @@ If you find a bug or have a feature request, please open an issue on GitHub:
 2. **Clone** your fork locally:
 
    ```bash
-   git clone https://github.com/SecretRoomSR/browniefudge.git
+   git clone https://github.com/jasonchristiandev/browniefudge.git
    ```
