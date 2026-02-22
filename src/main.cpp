@@ -55,7 +55,7 @@ int main(int argc, char *argv[]) {
 			"you are free to change and redistribute it.\n"
 			"There is NO WARRANTY, to the extent permitted by law.\n"
 			"Source code available at: "
-			"https://github.com/SecretRoomSR/browniefudge\n";
+			"https://github.com/jasonchristiandev/browniefudge\n";
 		std::string help_text =
 			"Usage: browniefudge [OPTION] [FILE]\n"
 			"       brudge       [OPTION] [FILE]\n"
